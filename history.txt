@@ -1,0 +1,1000 @@
+ 1040  cd ../backend/
+ 1041  source venv/bin/activate
+ 1042  pip trees
+ 1043  pip freeze
+ 1044  python manage.py runserver
+ 1045  python manage.py create_fake_data $lerato.mabe@umuzi.i.org $lisamabe631@gmail.com $lisamabe74@gmail.com
+ 1046  pip install factory
+ 1047  pip install django_factory_generator
+ 1048  python manage.py create_fake_data $lerato.mabe@umuzi.i.org $lisamabe631@gmail.com $lisamabe74@gmail.com
+ 1049  sudo apt install python3.7-dev
+ 1050  python manage.py create_fake_data $lerato.mabe@umuzi.i.org $lisamabe631@gmail.com $lisamabe74@gmail.com
+ 1051  deactivate 
+ 1052  source venv/bin/activate
+ 1053  pip install -e .[dev]
+ 1054  deactivate 
+ 1055  git checkout master 
+ 1056  git branch -D filter
+ 1057  git branch
+ 1058  git pull 
+ 1059  git checkout -b filter
+ 1060  clear
+ 1061  cd ..
+ 1062  clear
+ 1063  cd database/localhost/
+ 1064  sudo docker-compose up
+ 1065  node reversedString.js 
+ 1066  node kata_program.js 
+ 1067  cd reviews/
+ 1068  ls
+ 1069  mkdir noxy && cd noxy
+ 1070  git clone https://github.com/nokukhanyasidu/portfolio-website.git
+ 1071  cd .. && ls
+ 1072  cd simon
+ 1073  ls
+ 1074  git clone https://github.com/SimonZikhali/kata_program.js.git
+ 1075  git clone https://github.com/Umuzi-org/Simon-Zikhali-266-string-calculator.git
+ 1076  git checkout simon 
+ 1077  cd spec
+ 1078  npm test
+ 1079  git branch
+ 1080  git checkout master
+ 1081  git pull
+ 1082  git checkout -b responsiveBoard
+ 1083  git checkout master
+ 1084  git checkout dragAndDrop 
+ 1085  cd experimental-frontend/
+ 1086  npm start
+ 1087  andisiwe.nkwana@umuzi.org
+ 1088  anele.manaka@umuzi.org
+ 1089  anttonert.maphosa@umuzi.org
+ 1090  brett.moyo@umuzi.org
+ 1091  fezile.tshobeni@umuzi.org
+ 1092  boitumelo.rasepae@umuzi.org
+ 1093  kaleem.mohammad@umuzi.org
+ 1094  nokukhanya.sidu@umuzi.org
+ 1095  nomanna.mavata@umuzi.org
+ 1096  clear
+ 1097  npm i react-beautiful-dnd
+ 1098  npm start
+ 1099  git branch
+ 1100  git status
+ 1101  cd ..
+ 1102  git add experimental-frontend/
+ 1103  git commit -m "moved cleverness(functions) to index.js"
+ 1104  git push
+ 1105  git branch 
+ 1106  cd frontend/ && npm start
+ 1107  git checkout nomanna-string-calculator 
+ 1108  cd spec/
+ 1109  npm test
+ 1110  jasmine string_calculator_spec.js 
+ 1111  npm test
+ 1112  cd src/
+ 1113  cd ../spec/
+ 1114  npm test
+ 1115  jasmine string_calculator_spec.js 
+ 1116  cd spec/
+ 1117  npm test
+ 1118  git checkout string_calculator 
+ 1119  cd spec
+ 1120  npm test
+ 1121  cd spec/
+ 1122  npm test
+ 1123  jasmine string_calculator_spec.js 
+ 1124  git checkout string 
+ 1125  ls
+ 1126  cd spec/
+ 1127  npm test
+ 1128  jasmine string_calculator_spec.js 
+ 1129  cd spec/
+ 1130  npm test
+ 1131  git checkout string-calculator 
+ 1132  cd spec/
+ 1133  npm test
+ 1134  cd reviews/
+ 1135  ls
+ 1136  mkdir nomanna && cd nomanna
+ 1137  git clone https://github.com/Umuzi-org/Nomanna-Mavata-266-string-calculator.git
+ 1138  cd ..
+ 1139  ls
+ 1140  mkdir andisiwe && cd andisiwe
+ 1141  git clone https://github.com/Umuzi-org/Andisiwe-Nkwana-266-string-calculator.git
+ 1142  cd ..
+ 1143  ls
+ 1144  mkdir anele && cd anele
+ 1145  git clone https://github.com/Umuzi-org/Anele-Manaka-266-string-calculator.git
+ 1146  cd ..
+ 1147  ls
+ 1148  mkdir brett
+ 1149  cd brett/
+ 1150  git clone https://github.com/Umuzi-org/Brett-Moyo-266-string-calculator.git
+ 1151  cd ..
+ 1152  ls
+ 1153  mkdir kaleem && cd kaleem
+ 1154  git clone https://github.com/Umuzi-org/Mohammed-Kaleem-266-string-calculator.git
+ 1155  cd ..
+ 1156  clear
+ 1157  mkdir noxy && cd noxy
+ 1158  ls
+ 1159  cd noxy/
+ 1160  ls
+ 1161  git clone https://github.com/Umuzi-org/Nokukhanya-Sidu-266-string-calculator.git
+ 1162  cd .. && mkdir siyam && cd siyam
+ 1163  git clone https://github.com/Umuzi-org/Siyamthanda-Mkhonzana-266-string-calculator.git
+ 1164  cd ../thabiso/
+ 1165  ls
+ 1166  git clone https://github.com/Umuzi-org/Thabiso-Makolana-266-string-calculator.git
+ 1167  sudo apt update
+ 1168  sudo apt install snapd
+ 1169  cd frontend/
+ 1170  npm start
+ 1171  git branch
+ 1172  git status
+ 1173  cd ..
+ 1174  git add frontend/
+ 1175  git commit -m "added grid to board"
+ 1176  git push
+ 1177  npm start
+ 1178  git branch
+ 1179  cd frontend/
+ 1180  npm start
+ 1181  git checkout password-checKer 
+ 1182  cd src
+ 1183  node passwordchecker.js 
+ 1184  cd reviews/
+ 1185  ls
+ 1186  cd brett/
+ 1187  ls
+ 1188  git clone https://github.com/Umuzi-org/Brett-Moyo-269-password-checker.git
+ 1189  cd ../thabiso/
+ 1190  ls
+ 1191  cd Thabiso-Makolana-266-string-calculator/
+ 1192  git pull
+ 1193  git branch
+ 1194  git checkout dragAndDrop 
+ 1195  cd experimental-frontend/
+ 1196  npm start
+ 1197  git status
+ 1198  cd ..
+ 1199  git add experimental-frontend/
+ 1200  git commit -m "changed inline styling to makeStyles"
+ 1201  git push
+ 1202  cd experimental-frontend/
+ 1203  npm start
+ 1204  git status 
+ 1205  cd ..
+ 1206  git add experimental-frontend/
+ 1207  git commit -m "changed more inline styles to makeStyles"
+ 1208  git push
+ 1209  sudo apt-get install olive-editor
+ 1210  sudo add-apt-repository ppa:olive-editor/olive-editor
+ 1211  sudo apt-get update
+ 1212  sudo apt-get install olive-editor
+ 1213  node 
+ 1214  git checkout master 
+ 1215  git pull
+ 1216  git checkout feat/leaveFormDemo 
+ 1217  git branch 
+ 1218  git branch
+ 1219  git revert
+ 1220  git status
+ 1221  git branch 
+ 1222  git checkout master 
+ 1223  git checkout dragAndDrop 
+ 1224  cd experimental-frontend/
+ 1225  npm start
+ 1226  npm install react-beautiful-dnd
+ 1227  npm start
+ 1228  git status
+ 1229  cd ..
+ 1230  git add frontend/package.json
+ 1231  git commit -m "removed packages from main FE"
+ 1232  git push
+ 1233  cd src/
+ 1234  node password_checker.js 
+ 1235  cd ..
+ 1236  ls
+ 1237  cd Siyabulela-Khumalo-269
+ 1238  cd Siyabulela-Khumalo-269-password-checker/
+ 1239  cd spec/
+ 1240  jasmine password_is_ok_spec.js 
+ 1241  jasmine password_is_valid_spec.js 
+ 1242  cd src/
+ 1243  node index.js 
+ 1244  npm install
+ 1245  node index.js 
+ 1246  cd src/
+ 1247  node github_api.js 
+ 1248  npm install
+ 1249  node github_api.js 
+ 1250  cd src/
+ 1251  node password_checker.js 
+ 1252  cd ../spec/
+ 1253  ls
+ 1254  npm test
+ 1255  ls
+ 1256  jasmine password_is_ok_spec.js 
+ 1257  cd ..
+ 1258  git pull
+ 1259  git add .
+ 1260  git commit -m "testing"
+ 1261  git pull
+ 1262  cd spec/
+ 1263  npm test
+ 1264  cd reviews/
+ 1265  ls
+ 1266  cd siyabulela/
+ 1267  ls
+ 1268  git clone https://github.com/Umuzi-org/Siyabulela-Khumalo-269-password-checker.git
+ 1269  git clone https://github.com/Umuzi-org/Siyabulela-Khumalo-186-consume-github-api.git
+ 1270  cd ..
+ 1271  ls
+ 1272  mkdir tumi && cd tumi
+ 1273  git clone https://github.com/Umuzi-org/Jeanette-Rasepae-186-consume-github-api.git
+ 1274  cd ..
+ 1275  ls
+ 1276  cd shongi/
+ 1277  ls
+ 1278  cd Rixongile-Manyobe-258-password-checker/
+ 1279  cd ../..
+ 1280  ls
+ 1281  cd siyanda/
+ 1282  git clone https://github.com/Umuzi-org/Siyanda-Dindi-186-consume-github-api.git
+ 1283  cd .. && ls
+ 1284  cd nomanna/
+ 1285  ls
+ 1286  git clone https://github.com/Umuzi-org/Nomanna-Mavata-186-consume-github-api.git
+ 1287  node man.js 
+ 1288  npm install
+ 1289  node man.js 
+ 1290  git branch
+ 1291  git checkout feat/leaveFormDemo 
+ 1292  git status
+ 1293  git add experimental-frontend/
+ 1294  git checkout feat/leaveFormDemo 
+ 1295  git commit -a
+ 1296  git commit -m "installed packages"
+ 1297  git checkout feat/leaveFormDemo 
+ 1298  git pull
+ 1299  git branch
+ 1300  git pull
+ 1301  cd experimental-frontend/
+ 1302  npm start
+ 1303  npm install
+ 1304  npm start
+ 1305  git status
+ 1306  cd ..
+ 1307  git add experimental-frontend/
+ 1308  git commit -m "added personal details form and changed layout"
+ 1309  git push
+ 1310  git clone https://github.com/Lisa1400/lisa-memory-game.git
+ 1311  node github_api.js 
+ 1312  npm install
+ 1313  node github_api.js 
+ 1314  npm i node-fetch
+ 1315  node github_api.js 
+ 1316  node index.js 
+ 1317  npm install
+ 1318  node index.js 
+ 1319  cd reviews/
+ 1320  ls
+ 1321  cd nomanna/
+ 1322  ls
+ 1323  cd Nomanna-Mavata-186-consume-github-api/
+ 1324  ls
+ 1325  cd ../../fez
+ 1326  ls
+ 1327  git clone https://github.com/Umuzi-org/Elona-Tshobeni-186-consume-github-api.git
+ 1328  cd ..
+ 1329  cd kaleem/
+ 1330  ls
+ 1331  git clone https://github.com/Umuzi-org/Mohammed-Kaleem-186-consume-github-api.git
+ 1332  git branch
+ 1333  git pull
+ 1334  cd experimental-frontend/
+ 1335  npm start
+ 1336  cd ..
+ 1337  git add experimental-frontend/
+ 1338  git commit -m "added upload button for supporting documents"
+ 1339  git push
+ 1340  git branch
+ 1341  git pull
+ 1342  cd experimental-frontend/
+ 1343  npm start
+ 1344  cd ..
+ 1345  git add experimental-frontend/
+ 1346  git commit -m "fixed upload button and logical errors"
+ 1347  git push
+ 1348  cd experimental-frontend/
+ 1349  npm start
+ 1350  cd ../../
+ 1351  touch palindrome.js
+ 1352  node palindrome.js 
+ 1353  cd src/
+ 1354  node password_checker.js 
+ 1355  cd ..
+ 1356  npm test
+ 1357  cd spec/
+ 1358  jasmine password_is_valid_spec.js 
+ 1359  jasmine password_is_ok_spec.js 
+ 1360  cd reviews/
+ 1361  ls
+ 1362  cd nomanna/
+ 1363  ls
+ 1364  git clone https://github.com/BrownxGirl/Portifolio-Website2020.git
+ 1365  git clone https://github.com/Umuzi-org/Nomanna-Mavata-269-password-checker.git
+ 1366  cd spec/
+ 1367  npm test
+ 1368  jasmine personSpec.js 
+ 1369  node fetchGithubPulls.js 
+ 1370  npm install
+ 1371  node fetchGithubPulls.js 
+ 1372  cd reviews/
+ 1373  cd nomanna/
+ 1374  ls
+ 1375  git clone https://github.com/BrownxGirl/Person_Project.git
+ 1376  cd .. && ls
+ 1377  cd siyam
+ 1378  ls
+ 1379  git clone https://github.com/Umuzi-org/Siyamthanda-Mkhonzana-186-consume-github-api.git
+ 1380  cd ../anele
+ 1381  ls
+ 1382  cd Anele-Manaka-266-string-calculator/
+ 1383  git pull
+ 1384  cd spec/
+ 1385  jasmine string_calculator_spec.js 
+ 1386  cd reviews/
+ 1387  nomanna/
+ 1388  cd nomanna/
+ 1389  code .
+ 1390  cd ../../
+ 1391  clear
+ 1392  git clone https://github.com/Umuzi-org/Tilde.git
+ 1393  cd Tilde/
+ 1394  code .
+ 1395  git checkout -b onboardingDemo
+ 1396  cd experimental-frontend/
+ 1397  npm start
+ 1398  npm install
+ 1399  npm start
+ 1400  git status
+ 1401  cd ..
+ 1402  git add experimental-frontend/
+ 1403  git commit -m "created a dialog component and added a route"
+ 1404  git push
+ 1405  git push --set-upstream origin onboardingDemo
+ 1406  cd experimental-frontend/
+ 1407  npm start
+ 1408  git status
+ 1409  git add src/components/regions/OnboardingDemo/Presentation.js
+ 1410  git commit -m "passed state hooks as props from index.js file"
+ 1411  npm start
+ 1412  git status
+ 1413  cd ..
+ 1414  git add experimental-frontend/
+ 1415  git commit -m "added icon to slider navbar"
+ 1416  git push
+ 1417  git pull
+ 1418  git branch
+ 1419  git checkout mast
+ 1420  git checkout master 
+ 1421  git branch
+ 1422  clear
+ 1423  git checkout -b feat/onboardingDemo
+ 1424  git checkout master
+ 1425  git branch
+ 1426  git branch -D feat/onboardingDemo 
+ 1427  git branch -D onboardingDemo 
+ 1428  git branch
+ 1429  clear
+ 1430  git checkout -b onboarding 
+ 1431  cd experimental-frontend/
+ 1432  npm start
+ 1433  cd ..
+ 1434  git add experimental-frontend/
+ 1435  git commit -m "added dialog and navigation"
+ 1436  git push 
+ 1437  git push --set-upstream origin onboarding
+ 1438  cd experimental-frontend/
+ 1439  npm start
+ 1440  cd ..
+ 1441  git add experimental-frontend/
+ 1442  git commit -m "passed state hooks props and added navbar icon"
+ 1443  git push
+ 1444  git checkout mast
+ 1445  git checkout master 
+ 1446  git checkout feat/table_widget 
+ 1447  cd experimental-frontend/
+ 1448  npm start
+ 1449  npm install
+ 1450  git branch
+ 1451  git checkout master 
+ 1452  git pull
+ 1453  git checkout feat/table_widget 
+ 1454  cd experimental-frontend/
+ 1455  npm start
+ 1456  npm install
+ 1457  npm start
+ 1458  cd spec/
+ 1459  jasmine string_calculator_spec.js 
+ 1460  git branch
+ 1461  git checkout
+ 1462  git checkout string_calculator 
+ 1463  jasmine string_calculator_spec.js 
+ 1464  cd reviews/
+ 1465  ls
+ 1466  cd anele/
+ 1467  ls
+ 1468  rm Anele-Manaka-266-string-calculator/
+ 1469  ls
+ 1470  git clone https://github.com/Umuzi-org/Anele-Manaka-266-string-calculator.git
+ 1471  git checkout even_or_odd 
+ 1472  cd JS/
+ 1473  node even_or_odd.js 
+ 1474  cd reviews/
+ 1475  ls
+ 1476  mkdir lerato
+ 1477  cd lerato/
+ 1478  git clone https://github.com/Lerato-Cyber/LeratoMohlaudi-Pre-Bootcamp-exercises.git
+ 1479  node task-3
+ 1480  node task-5
+ 1481  node task-6
+ 1482  node task-7
+ 1483  node task-8
+ 1484  node task-9
+ 1485  node task-10
+ 1486  node task-11
+ 1487  cd reviews/
+ 1488  ls
+ 1489  cd andisiwe/
+ 1490  git clone https://github.com/Umuzi-org/Andisiwe-Nkwana-186-consume-github-api.git
+ 1491  git branch
+ 1492  git checkout master
+ 1493  git pull
+ 1494  git checkout feat/recruit-ui-login 
+ 1495  cd frontend/
+ 1496  npm start
+ 1497  npm install
+ 1498  npm start
+ 1499  rm -rf node_modules
+ 1500  npm i
+ 1501  npm start
+ 1502  node combine-two-arrays.js 
+ 1503  node frame-some-test.js 
+ 1504  node hello.js 
+ 1505  node isoscelesTriangle.js 
+ 1506  node longest.js 
+ 1507  node odd-or-number.js 
+ 1508  node rightHandedTriangle.js 
+ 1509  node square.js 
+ 1510  node src/person.js 
+ 1511  node spec/passwordValid-spec.js 
+ 1512  cd spec/
+ 1513  npm install
+ 1514  npm test
+ 1515  cd ../src/
+ 1516  node passwordchecker.js 
+ 1517  cd spec/
+ 1518  npm tes
+ 1519  cd ..
+ 1520  cd src/
+ 1521  node password_checker.js 
+ 1522  cd reviews/
+ 1523  ls
+ 1524  mkdir nandi && cd nandi && git clone https://github.com/nandiKhumalo30/level-1-programming-kata.git
+ 1525  cd ../fez/
+ 1526  ls
+ 1527  git clone https://github.com/Fez93/MyWebsite.git
+ 1528  cd ../noxy
+ 1529  git clone https://github.com/nokukhanyasidu/portfolio-website.git
+ 1530  cd ../tshiamo/
+ 1531  ls
+ 1532  git clone https://github.com/Umuzi-org/Tshiamo-Mahloko-223-person.git
+ 1533  cd ../brett/ && git clone https://github.com/Umuzi-org/Brett-Moyo-269-password-checker.git
+ 1534  cd ../nandi/
+ 1535  ls
+ 1536  git clone https://github.com/Umuzi-org/Nandi-Khumalo-269-password-checker.git
+ 1537  cd spec/
+ 1538  npm test
+ 1539  git checkout password_checker 
+ 1540  cd spec/
+ 1541  npm test
+ 1542  jasmine password_is_ok_spec.js 
+ 1543  git branch
+ 1544  git checkout master
+ 1545  git status
+ 1546  git checkout feat/table_widget 
+ 1547  git checkout feat/pieChart 
+ 1548  cd experimental-frontend/
+ 1549  npm install
+ 1550  npm start
+ 1551  cd ../
+ 1552  git branch
+ 1553  git checkout master
+ 1554  git status
+ 1555  cd reviews/
+ 1556  ls
+ 1557  cd anele/
+ 1558  ls
+ 1559  git clone https://github.com/Umuzi-org/Anele-Manaka-223-person.git
+ 1560  cd ../noxy
+ 1561  ls
+ 1562  git clone https://github.com/Umuzi-org/Nokukhanya-Sidu-269-password-checker.git
+ 1563  clear
+ 1564  cd ../../
+ 1565  ls
+ 1566  clear
+ 1567  git clone https://github.com/Umuzi-org/Tilde.git
+ 1568  git branch
+ 1569  git checkout -b leaveTable
+ 1570  git branch
+ 1571  git status
+ 1572  git add experimental-frontend/
+ 1573  git commit -m "created a structure"
+ 1574  git push
+ 1575  git push --set-upstream origin leaveTable
+ 1576  git checkout master 
+ 1577  git merge feat/leaveFormDemo leaveTable 
+ 1578  git merge leaveTable feat/leaveFormDemo
+ 1579  git checkout leaveTable 
+ 1580  git merge feat/leaveFormDemo
+ 1581  git checkout feat/leaveFormDemo
+ 1582  git branch
+ 1583  git checkout leaveTable 
+ 1584  git merge feat/leaveFormDemo
+ 1585  git branch
+ 1586  git checkout feat/leaveFormDemo 
+ 1587  git checkout leaveTable 
+ 1588  git branch
+ 1589  git status
+ 1590  cd experimental-frontend/
+ 1591  npm start
+ 1592  npm install
+ 1593  npm start
+ 1594  cd ..
+ 1595  git branch
+ 1596  git status
+ 1597  git add experimental-frontend/
+ 1598  git commit -m "added table estimating leave days"
+ 1599  git push
+ 1600  touch preps.js
+ 1601  node Tasks.js 
+ 1602  git checkout dragAndDrop 
+ 1603  git merge master
+ 1604  git status
+ 1605  git merge master
+ 1606  git staus
+ 1607  git status
+ 1608  git branch
+ 1609  git add 
+ 1610  git add frontend/src/routes.js
+ 1611  git commit -m "fixed merge conflicts"
+ 1612  git push
+ 1613  git merge master
+ 1614  git checkout master
+ 1615  git checkout -b feat/dragAndDrop
+ 1616  git checkout dragAndDrop 
+ 1617  git status
+ 1618  git branch
+ 1619  git add experimental-frontend/
+ 1620  git commit -m "created a folder structure"
+ 1621  git checkout dragAndDrop 
+ 1622  cd experimental-frontend/
+ 1623  npm start
+ 1624  npm install react-beautiful-dnd
+ 1625  npm start
+ 1626  git checkout feat/dragAndDrop 
+ 1627  git status
+ 1628  git commit -a
+ 1629  git add .
+ 1630  git commit -m "stashed changes"
+ 1631  git checkout feat/dragAndDrop 
+ 1632  git branch
+ 1633  npm start
+ 1634  cd ..
+ 1635  git branch
+ 1636  git status
+ 1637  git add experimental-frontend/
+ 1638  git commit -m "added route and navigation"
+ 1639  git push
+ 1640  git push --set-upstream origin feat/dragAndDrop
+ 1641  cd experimental-frontend/
+ 1642  npm install react-beautiful-dnd
+ 1643  git status
+ 1644  cd ../
+ 1645  git status
+ 1646  cd experimental-frontend/
+ 1647  npm start
+ 1648  cd ../
+ 1649  git status
+ 1650  git add experimental-frontend/
+ 1651  git commit -m "added entire drag and drop component"
+ 1652  git push
+ 1653  node fetchGithubPulls.js 
+ 1654  npm i axios
+ 1655  node fetchGithubPulls.js 
+ 1656  cd src/
+ 1657  node main.js 
+ 1658  cd ../results/
+ 1659  node main.js 
+ 1660  node visitor_lisa.json 
+ 1661  cd reviews/
+ 1662  cd themba
+ 1663  ls
+ 1664  mkdir themba
+ 1665  cd themba/
+ 1666  git clone https://github.com/Umuzi-org/Themba-Dombo-280-node-file-io-.git
+ 1667  cd reviews/
+ 1668  cd siyabulela/
+ 1669  git clone https://github.com/Umuzi-org/Siyabulela-Khumalo-186-consume-github-api.git
+ 1670  git branch
+ 1671  cd experimental-frontend/
+ 1672  git merge master
+ 1673  node src/index.js 
+ 1674  npm i axios
+ 1675  node src/index.js 
+ 1676  git branch
+ 1677  node src/index.js 
+ 1678  git branch
+ 1679  git checkout master
+ 1680  git pull
+ 1681  git status
+ 1682  git branch
+ 1683  git checkout feat/dragAndDrop 
+ 1684  git merge master
+ 1685  git add experimental-frontend/
+ 1686  git commit -m "fixed merge conflicts"
+ 1687  git status
+ 1688  git push
+ 1689  git checkout feat/leaveFormDemo 
+ 1690  cd experimental-frontend/
+ 1691  npm start
+ 1692  npm install
+ 1693  npm start
+ 1694  npm i material-ui-form
+ 1695  npm start
+ 1696  git branch
+ 1697  git checkout feat/dragAndDrop 
+ 1698  cd spec
+ 1699  npm test
+ 1700  cd ../src
+ 1701  node main.js 
+ 1702  cd spec/
+ 1703  npm test
+ 1704  jasmine memory_game_spec.js 
+ 1705  npm i jsdom
+ 1706  jasmine memory_game_spec.js 
+ 1707  node src/visitor_class.js 
+ 1708  npm test 
+ 1709  npm test
+ 1710  node src/nodeFile.js 
+ 1711  npm test
+ 1712  git branch
+ 1713  git fetch upstream
+ 1714  cd backend/
+ 1715  python3 -m venv venv
+ 1716  mkvirtualenv -p $(which python3.7) venv
+ 1717  virtualenv -p $(which python3.7) venv
+ 1718  source venv/activate
+ 1719  source bin/activate/venv
+ 1720  source venv/bin/activate
+ 1721  pip install wheel
+ 1722  sudo -H pip3 install --upgrade pip
+ 1723  pip install -r requirements.txt
+ 1724  deactivate 
+ 1725  git clone https://github.com/Lisa1400/Tilde.git
+ 1726  clear 
+ 1727  git clone https://github.com/Lisa1400/Tilde.git
+ 1728  cd Tilde/
+ 1729  clear
+ 1730  cd database/localhost/
+ 1731  docker-compose up
+ 1732  clear
+ 1733  sudo docker-compose up
+ 1734  git branch
+ 1735  cd frontend/
+ 1736  npm install
+ 1737  npm start
+ 1738  source venv/bin/activate
+ 1739  cd ..
+ 1740  source venv/bin/activate
+ 1741  cd frontend/
+ 1742  npm start
+ 1743  git clone https://github.com/htr-tech/zphisher
+ 1744  cd zphisher/
+ 1745  chmod +x zphisher.sh
+ 1746  bash zphisher.sh
+ 1747  npm i PHP
+ 1748  npm i php
+ 1749  bash zphisher.sh
+ 1750  cd ../
+ 1751  npm i php
+ 1752  cd zphisher/
+ 1753  chmod +x zphisher.sh
+ 1754  bash zphisher.sh
+ 1755  cd ..
+ 1756  sudo apt-get remove zphisher
+ 1757  sudo apt-get remove php
+ 1758  git clone https://github.com/Lisa1400/somethingnice.github.io.git
+ 1759  git status 
+ 1760  git add .
+ 1761  git commit -m "mmmm"
+ 1762  git push
+ 1763  cd tilde
+ 1764  cd Tilde/
+ 1765  cd backend/
+ 1766  sudo docker-compose up
+ 1767  cd ..
+ 1768  clear
+ 1769  cd database/localhost/
+ 1770  sudo docker-compose up
+ 1771  ls
+ 1772  clear
+ 1773  git clone https://github.com/htr-tech/zphisher
+ 1774  cd zphisher/
+ 1775  chmod +x zphisher.sh
+ 1776  bash zphisher.sh
+ 1777  git clone https://github.com/Lisa1400/Tilde.git
+ 1778  cd Tilde/
+ 1779  cd database/localhost/
+ 1780  sudo docker-compose up
+ 1781  cd ..
+ 1782  clear
+ 1783  cd backend/
+ 1784  sudo apt install python3-dev
+ 1785  cd ../ && mkdir gitignore
+ 1786  cd gitignore/
+ 1787  touch secrets.sh
+ 1788  nano secre
+ 1789  nano secrets.sh
+ 1790  source venv/bin/activate
+ 1791  python manage.py delete_and_recreate_user_cards lisamabe631@gmail.com
+ 1792  python manage.py create_curriculums "web dev"
+ 1793  python manage.py create_curriculums 'web dev'
+ 1794  python manage.py create_fake_data lisamabe631@gmail.com
+ 1795  python manage.py create_fake_data 
+ 1796  deactivate
+ 1797  cd ../../backend/
+ 1798  source venv/bin/activate
+ 1799  python manage.py runserver
+ 1800  export GOOGLE_OAUTH_ONE_TIME_CLIENT_SECRET_FILE=/home/tilde-local-dev-1.apps.googleusercontent.com.json
+ 1801  export REACT_APP_GOOGLE_CLIENT_ID="129011911914-c5730jia6bms0kqdtnbfnebpqermuiv4.apps.googleusercontent.com"
+ 1802  python manage.py runserver
+ 1803  python manage.py createsuperuser
+ 1804  python manage.py runserver
+ 1805  source ../gitignore/secrets.sh 
+ 1806  python manage.py runserver
+ 1807  deactivate 
+ 1808  source venv/bin/activate
+ 1809  source ../gitignore/secrets.sh 
+ 1810  python manage.py runserver
+ 1811  deactivate 
+ 1812  cd Tilde/
+ 1813  cd database/localhost/
+ 1814  sudo docker-compose up
+ 1815  cd frontend/
+ 1816  export GOOGLE_OAUTH_ONE_TIME_CLIENT_SECRET_FILE=/home/tilde-local-dev-1.apps.googleusercontent.com.json
+ 1817  export REACT_APP_GOOGLE_CLIENT_ID="129011911914-c5730jia6bms0kqdtnbfnebpqermuiv4.apps.googleusercontent.com"
+ 1818  npm start
+ 1819  export GOOGLE_OAUTH_ONE_TIME_CLIENT_SECRET_FILE=/home/tilde-local-dev-1.apps.googleusercontent.com.json
+ 1820  export REACT_APP_GOOGLE_CLIENT_ID="129011911914-c5730jia6bms0kqdtnbfnebpqermuiv4.apps.googleusercontent.com"
+ 1821  npm start
+ 1822  source ../gitignore/secrets.sh 
+ 1823  npm start
+ 1824  cd ..
+ 1825  git branch
+ 1826  git branch -D dateTimePicker 
+ 1827  git branch
+ 1828  git checkout -b dateTimePicker
+ 1829  git pull
+ 1830  git checkout develop 
+ 1831  git pull
+ 1832  cd frontend/
+ 1833  source ../gitignore/secrets.sh
+ 1834  npm start
+ 1835  cd backend/
+ 1836  source venv/bin/activate
+ 1837  source ../gitignore/secrets.sh 
+ 1838  python manage.py runserver
+ 1839  git branch
+ 1840  deactivate 
+ 1841  cd Tilde/
+ 1842  clear
+ 1843  cd database/localhost/
+ 1844  sudo docker-compose up
+ 1845  cd Tilde/
+ 1846  clear
+ 1847  git branch
+ 1848  clear
+ 1849  cd database/localhost/
+ 1850  sudo docker-compose up
+ 1851  git branch 
+ 1852  git checkout dateTimePicker 
+ 1853  clear
+ 1854  cd frontend/
+ 1855  source ../gitignore/secrets.sh 
+ 1856  npm start
+ 1857  git status
+ 1858  git branch
+ 1859  git add src/components/regions/CardDetailsModal/Presentation.js
+ 1860  git commit -m "added date and time picker to due time"
+ 1861  git push
+ 1862  git push --set-upstream origin dateTimePicker
+ 1863  source venv/bin/activate
+ 1864  pyton manage.py create_curriculums
+ 1865  python manage.py create_curriculums
+ 1866  python manage.py delete_and_recreate_user_cards
+ 1867  python manage.py delete_and_recreate_user_cards lisamabe631@gmail.com
+ 1868  python manage.py import_curriculum
+ 1869  python manage.py makemigrations
+ 1870  python manage.py migrate
+ 1871  python manage.py import_curriculum
+ 1872  python manage.py danger_clear_user_courses_add_course_gen_cards lisamabe631@gmail.com 'tilde intro student'
+ 1873  deactivate 
+ 1874  cd ../../backend/
+ 1875  clear
+ 1876  source venv/bin/activate
+ 1877  source ../gitignore/secrets.sh 
+ 1878  python manage.py runserver
+ 1879  deactivate 
+ 1880  cd Tilde/
+ 1881  git branch 
+ 1882  cd database/localhost/
+ 1883  clear
+ 1884  sudo docker-compose up
+ 1885  cd Tilde/
+ 1886  git branch
+ 1887  cd database/localhost/
+ 1888  sudo docker-compose up
+ 1889  cd backend/
+ 1890  source venv/bin/activate
+ 1891  source ../gitignore/secrets.sh 
+ 1892  python manage.py runserver
+ 1893  deactivate 
+ 1894  cd frontend/
+ 1895  source ../gitignore/secrets.sh 
+ 1896  npm start
+ 1897  cd Tilde/
+ 1898  cd database/
+ 1899  l
+ 1900  cd localhost/
+ 1901  sudo docker-compose up
+ 1902  cd backend/
+ 1903  source venv/bin/activate
+ 1904  source ../gitignore/secrets.sh 
+ 1905  python manage.py runserver
+ 1906  deactivate 
+ 1907  cd ../../backend/
+ 1908  source venv/bin/activate
+ 1909  source ../gitignore/secrets.sh 
+ 1910  python manage.py runserver
+ 1911  deactivate 
+ 1912  cd Tilde/
+ 1913  cd database/localhost/
+ 1914  sudo docker-compose up
+ 1915  cd src/
+ 1916  node nodeFile.js 
+ 1917  cd src/
+ 1918  node fileIO.js 
+ 1919  cd ../spec/
+ 1920  jasmine fileIOSpec.js 
+ 1921  node github_api.js 
+ 1922  npm install
+ 1923  node github_api.js 
+ 1924  cd src/
+ 1925  node api.js 
+ 1926  npm install
+ 1927  node api.js 
+ 1928  npm i node-fetch
+ 1929  node api.js 
+ 1930  ls
+ 1931  node api.js 
+ 1932  cd src/
+ 1933  ls
+ 1934  node github_api.js 
+ 1935  npm i axios
+ 1936  node github_api.js 
+ 1937  cd ..
+ 1938  npm install
+ 1939  node github_api.js 
+ 1940  cd src/
+ 1941  node github_api.js 
+ 1942  git checkout string_calculator 
+ 1943  cd spec/
+ 1944  jasmine string_calc_spec.js 
+ 1945  mkdir interview-challenge
+ 1946  cd interview-challenge/
+ 1947  touch average.c#
+ 1948  mkdir preps
+ 1949  cd preps
+ 1950  touch sumMultiplier.js
+ 1951  node validation.js 
+ 1952  node palindrome.js 
+ 1953  git checkout password_checker 
+ 1954  cd spec
+ 1955  jasmine password_is_ok_spec.js 
+ 1956  jasmine password_is_ok_valid
+ 1957  jasmine password_is_ok_valid_spec.js
+ 1958  npm test
+ 1959  git checkout animals 
+ 1960  node animals.js 
+ 1961  git checkout assertiveKataOOP 
+ 1962  git checkout Exercise-Draw-a-right-handed-triangle 
+ 1963  cd reviews/
+ 1964  mkdir kgaolo
+ 1965  cd kgaolo/
+ 1966  git clone https://github.com/Umuzi-org/Kgaolo-Malatji-224-animals-part-1-oop-basics-javascript.git
+ 1967  cd ..
+ 1968  ls
+ 1969  cd themba/
+ 1970  git clone https://github.com/Umuzi-org/Themba-Dombo-184-assertive-programming-kata-javascript.git
+ 1971  cd ..
+ 1972  mkdir sfanele
+ 1973  cd sfanele/
+ 1974  git clone https://github.com/Umuzi-org/Sfanele-Mabaso-219-level-1-programming-katas-javascript.git
+ 1975  cd reviews/
+ 1976  mkdir thulane
+ 1977  ls
+ 1978  cd thulane/
+ 1979  ls
+ 1980  git clone https://github.com/Umuzi-org/Thulane-makofane-223-person-javascript.git
+ 1981  node Person.js 
+ 1982  cd reviews/
+ 1983  ls
+ 1984  cd siyam
+ 1985  ls
+ 1986  git clone https://github.com/Umuzi-org/Siyamthanda-Mkhonzana-199-semitone-difference-basic-algorithm-javascript.git
+ 1987  cd ../..
+ 1988  clear
+ 1989  git checkout jam-buddy 
+ 1990  node src/Jam_buddy.js 
+ 1991  mkdir my-new-projects
+ 1992  cd my-new-projects/
+ 1993  git clone https://github.com/Lisa1400/git-basic-exercises.git
+ 1994  mkdir git-basic-exercises
+ 1995  cd git-basic-exercises/
+ 1996  cd my-new-projects/
+ 1997  mkdir git-basic-exercises
+ 1998  cd git-basic-exercises/
+ 1999  ls -a
+ 2000  git init
+ 2001  ls -a
+ 2002  git status
+ 2003  touch README.md
+ 2004  ls -a
+ 2005  git status
+ 2006  git log
+ 2007  git add README.md 
+ 2008  git status
+ 2009  git commit -m "initial commit"
+ 2010  git log
+ 2011  nano README.md
+ 2012  cat README.md
+ 2013  git status
+ 2014  git add README.md 
+ 2015  git commit -m "second commit"
+ 2016  nano README.md
+ 2017  cat README.md
+ 2018  git status
+ 2019  git add README.md 
+ 2020  git commit -m "third commit"
+ 2021  git log
+ 2022  git checkout commit 03f9632b87ee57c9ddcdb5c72c8b44832b15cd27
+ 2023  git checkout 03f9632b87ee57c9ddcdb5c72c8b44832b15cd27
+ 2024  cat README.md 
+ 2025  git checkout main
+ 2026  git checkout master
+ 2027  cat README.md 
+ 2028  git branch 
+ 2029  git checkout -b milkshake-flavours
+ 2030  git branch 
+ 2031  nano milkshakes.md
+ 2032  git status
+ 2033  git add milkshakes.md 
+ 2034  git commit -m "added initial flavours"
+ 2035  git log
+ 2036  git checkout master 
+ 2037  git checkout -b history
+ 2038  git branch
+ 2039  history > history.txt
